@@ -1,0 +1,36 @@
+.card{
+    width: 400px;
+    height:300px;
+    text-align: left;
+}
+.jumbotron{
+    align:center;
+    width: 400px;
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 135px;
+    height: 80px;
+}
+.space{
+    margin-left: 150px;
+}
+.a{
+
+}
+.last{
+    color: dimgray;
+}
+a{
+    box-align: center;
+    margin-left: 20 px;
+}
+div.first{
+    text-align: center;
+    margin:auto;
+}

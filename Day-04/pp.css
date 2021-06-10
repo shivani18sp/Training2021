@@ -1,0 +1,47 @@
+.navigation-bar{
+    size:300px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(235, 96, 177);
+    border: 5px solid black;
+    text-shadow: 200px;
+    font-size: 30px;
+}
+a:hover{
+    color: rgb(0, 0, 128);
+    text-decoration-line: underline;
+    background-color: cadetblue;
+}
+a:visited{
+    color:crimson;
+    background-color: rgb(131, 90, 98);
+}
+.images{
+    border: 2px solid black;
+    padding: 2px;
+    text-align: center;
+    width: 400px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background: rgb(180, 203, 247);
+}
+.images-hover{
+    background: radial-gradient(grey,crimson);
+    color: rgb(163, 111, 212);
+}
+body{
+    background: linear-gradient(rgb(250, 233, 79),rgb(228, 122, 241));
+}
+.row1{
+    display: flex;
+}
+.row2{
+    display: flex;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+button{
+    background-color: darkkhaki;
+    color: darkred;
+}

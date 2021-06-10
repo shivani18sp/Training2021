@@ -1,0 +1,50 @@
+body{
+    background-color:cornflowerblue;
+}
+.operator{
+    background-color: yellowgreen;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 2px;
+}
+button{
+    width: 50px;
+    height: 50px;
+    background-color:azure;
+    margin-right: 5px;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    background-color: pink;
+    margin-bottom: 20px;
+    text-shadow:2px 2px 2px black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card{
+    background-color: silver;
+    display:block;
+    margin: auto;
+    width: 277px;
+    height: 300px;
+}
+input{
+    display: block;
+    margin: auto;
+    margin-top: 4px;
+    margin-bottom: 20px;
+    height: 35px;
+    width: 250px;
+    font-size: 20px;
+    text-align: right;
+    margin-top: 20px;
+}
+input:hover{
+    background-color:lightblue;
+    text-align: right;
+}
+.operator:hover{
+    background-color:black;
+    color: darkgrey;
+    font: larger;
+} 

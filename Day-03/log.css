@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpdr2IKOuVoZdaz9zxx0kH35_nWvJN3OaVw&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: rgb(173, 207, 238);
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

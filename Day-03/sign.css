@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpdr2IKOuVoZdaz9zxx0kH35_nWvJN3OaVw&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: rgb(173, 207, 238);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+div{
+    opacity: 1;
+    border-color: black;
+    border-width: 1px;
+    border-style: double;
+}
+button{
+    size: 20px;
+}
